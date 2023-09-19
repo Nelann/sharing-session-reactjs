@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Budi",
+    "graduated": false
+  },
+  {
+    "id": 2,
+    "name": "Joko",
+    "graduated": false
+  },
+  {
+    "id": 3,
+    "name": "Susan",
+    "graduated": false
+  }
+]
